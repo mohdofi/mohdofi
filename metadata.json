@@ -1,0 +1,5 @@
+{
+  "name": "Smart Alarm",
+  "description": "A cozy and simple smart alarm clock application that displays the date and time, allows users to set an alarm with a custom message, and choose a ringing tone.",
+  "requestFramePermissions": []
+}
